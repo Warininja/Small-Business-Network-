@@ -4,14 +4,14 @@ Dwaine Hood
 -----
 ## Stage 1 Network Setup
 I was asked to Build out a network infrastructure for a small business where the customer requested a LAN, Guest and DMZ network.
-1. I first added the the devices to lab workspace in GN3
-2. I then configured the LAN network on the firewall through the CLI over the console interface.
-3. I added a Win10 workstation to the LAN network.
+1. Added the the devices to lab workspace in GN3
+2. Configured the LAN network on the firewall through the CLI over the console interface.
+3. Added a Win10 workstation to the LAN network.
 4. Connected to the firewall GUI from the Win10 workstation.
 5. Completed the network setup through the firewall GUI.
 ![Stage 1 Network Setup](https://user-images.githubusercontent.com/123712481/219796115-50ba9f74-844e-4a29-b677-62025e81ad0e.png)
 ## Stage 2 Network Setup
-In stage 2 I built a windows domain for the customers small business envirmonment.
+Built a windows domain for the customers small business envirmonment.
 1.  Prepared a Win2012r2 server for the “Active Directory Domain Services” server role.
 2.  Installed the “Active Directory Domain Services” server role.
 3.  Created new AD user accounts.
