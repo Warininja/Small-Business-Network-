@@ -45,3 +45,13 @@ Researched how to harden the environment
 4.  Research hardening Windows Server 2012r2.
 5.  Research hardening Ubuntu server 18.04.
 6.  Presented findings to my senior engineer.
+
+[Research hardening a FortiGate firewall.docx](https://github.com/Warininja/testrepo/files/10772067/Research.hardening.a.FortiGate.firewall.docx)
+## Stage 7 Scanning the environment
+Conducted a vulnerability scan on the WAN interface and network environment
+1.  Connected network to Greenbone server.
+2.  Created a target of the WAN interface IP for the firewall.
+3.  Scaned the target.
+4.  Documented the results and submitted to my senior engineer.
+
+[Vulnerabilty report.docx](https://github.com/Warininja/testrepo/files/10772098/Vulnerabilty.report.docx)
